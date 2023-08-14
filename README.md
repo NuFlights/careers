@@ -58,7 +58,7 @@ We are looking for all of our associates to demonstrate some general traits, ski
 You should start by emailing your profile and details indicated above in 'Introductions...' to us.
 
 * For Open Positions, send these to `talents@nuflights.com`
-* For Internships, use  `internships@nuflights.com`
+* For Internships, use  `internship@nuflights.com`
 
 ## Errors / Omissions / Questions?
 * Try creating a new issue on this repo.
