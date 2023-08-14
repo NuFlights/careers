@@ -57,7 +57,7 @@ We are looking for all of our associates to demonstrate some general traits, ski
 ## How to apply
 You should start by emailing your profile and details indicated above in 'Introductions...' to us.
 
-* For Open Positions, send these to `careers@nuflights.com`
+* For Open Positions, send these to `talents@nuflights.com`
 * For Internships, use  `internships@nuflights.com`
 
 ## Errors / Omissions / Questions?
