@@ -50,10 +50,8 @@ Our choice of technology tooling is growing, but we focus on the foundations bel
 * See our [application front-end tech-stack](https://github.com/NuFlights/careers/blob/main/open-positions/react-typescripter.md#tech-stack)
 * Our cloud platform is AWS, and we mostly use native AWS services as managed services.
 
-## Assignment
+## Selection
 
-Using the tech stack described above (This is a must), you can choose a front-end assignment and a back-end assignment.
-* See [Pythonista Assignments](https://github.com/NuFlights/careers/blob/main/open-positions/pythonista.md#assignments), for application back-ends.
-* See [React Typescripter Assignments](https://github.com/NuFlights/careers/blob/main/open-positions/pythonista.md#assignments), for application front-ends.
+You will be given a coding assignment.And,using the tech stack described above (This is a must), you can choose a front-end assignment and a back-end assignment.Submit your solution in a Github private repo and one of our associates that we nominate as a collaborator.
 
 Please push the assignment to a PRIVATE (do make sure it's private) GitHub repo and add @dhilipsiva, @rs-ds and @Sumit-Chakole as collaborators to these private repos.
