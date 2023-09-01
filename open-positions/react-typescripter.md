@@ -55,13 +55,5 @@ You should have a strong understanding of the following:
 * Have a basic understanding of how to use a docker-compose script 
 
 
-## Assignment
-
-Using the tech stack above (This is a must), build a simple React App to do the following things:
-
-* A Search input box which takes the project name as input for the Github Search.
-* Once user enters the project name, the [Github GraphQL Search API](https://docs.github.com/en/free-pro-team@latest/graphql/reference/queries#searchresultitemconnection) is triggered, fetches the results and display them on the UI.
-* Design the page to showcase your general design skills - why not try [IBM Carbon React](https://react.carbondesignsystem.com/?path=/docs/getting-started-welcome--welcome)
-* Ensure you do commits to git at regular intervals while you are building the application.
-
-Please push the assignment to PRIVATE (do make sure it's private) GitHub repos and add @dhilipsiva, @rs-ds and @Sumit-Chakole as collaborators to these private repos.
+## Selection
+You will be given a coding assignment, and submit your solution in a Github private repo and one of our associates that we nominate as a collaborator.
